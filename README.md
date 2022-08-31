@@ -17,7 +17,7 @@
 
 
 
-![](https://github.com/sashakulcc/pics/blob/main/logo.png)
+![](https://github.com/sashakulcc/pics/blob/main/logo320.png)
 ![](https://github.com/sashakulcc/pics/blob/main/logo%20nrwa.jpg)
 
 <h3 align="left">Languages and Tools:</h3>
