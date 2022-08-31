@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasha</h1>
+
+![](https://github.com/sashakulcc/pics/blob/main/200.gif)
+
 <h3 align="center">Career Coach and Consultant, professional CV Writer with international experience and expertise</h3>
 
 - 💬 Ask me about **CV and CL writing, interview hints and tips, self presentation and career development**
