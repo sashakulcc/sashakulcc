@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sasha</h1>
 <h3 align="center">Career Coach and Consultant, professional CV Writer with international experience and expertise</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sashakulcc&label=Profile%20views&color=0e75b6&style=flat" alt="sashakulcc" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sashakulcc" alt="sashakulcc" /></a> </p>
-
 - 💬 Ask me about **CV and CL writing, interview hints and tips, self presentation and career development**
 
-- 📫 How to reach me **alexandra.kulikova@elbrusboot.camp**
+- 📫 How to reach me **https://t.me/alex_jrg**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexandra-kulikova/](https://www.linkedin.com/in/alexandra-kulikova/)
 
