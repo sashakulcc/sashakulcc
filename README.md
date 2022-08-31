@@ -1,4 +1,4 @@
-![](https://github.com/sashakulcc/pics/blob/main/200.gif)
+![](https://github.com/sashakulcc/pics/blob/main/hackaton-2.webp)
 
 <h1 align="left">Hi 👋, I'm Sasha</h1>
 
