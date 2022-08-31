@@ -7,8 +7,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexandra-kulikova/](https://www.linkedin.com/in/alexandra-kulikova/)
 
-- 📄 PARWCC [https://cdn.ymaws.com/parwcc.site-ym.com/graphics/logo.png](https://cdn.ymaws.com/parwcc.site-ym.com/graphics/logo.png)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexandra-kulikova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandra-kulikova" height="30" width="40" /></a>
