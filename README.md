@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasha</h1>
 
-![](https://github.com/sashakulcc/pics/blob/main/200.gif)
-
 <h3 align="center">Career Coach and Consultant, professional CV Writer with international experience and expertise</h3>
 
 - 💬 Ask me about **CV and CL writing, interview hints and tips, self presentation and career development**
@@ -14,6 +12,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/alexandra-kulikova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandra-kulikova" height="30" width="40" /></a>
 </p>
+
+![](https://github.com/sashakulcc/pics/blob/main/200.gif)
 
 ![](https://github.com/sashakulcc/pics/blob/main/PAR.png)
 ![](https://github.com/sashakulcc/pics/blob/main/NRWA_%20Member-CMYK-01.jpeg)
