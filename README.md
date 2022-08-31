@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexandra-kulikova/](https://www.linkedin.com/in/alexandra-kulikova/)
 
-![Alt text](relative/path/to/https://cdn.ymaws.com/parwcc.site-ym.com/graphics/logo.png?raw=true "Title")
+(https://cdn.ymaws.com/parwcc.site-ym.com/graphics/logo.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
